@@ -1,4 +1,4 @@
 # QtCode
 Qt code here.
 <br>Add 1st change.
-<br>Add the window title
+<br>Add the window title.
