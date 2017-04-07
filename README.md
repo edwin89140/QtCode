@@ -8,6 +8,7 @@
   - Merge conflict
   
 ### About
+  - Author : Edwin Lai
   - Contact me : [Edwin]
   - For Clone :
   ```sh
@@ -19,7 +20,7 @@
 
 | Branch | Description |
 | ------ | ------ |
-| master | the main branch |
+| master | Main branch |
 
 
 
