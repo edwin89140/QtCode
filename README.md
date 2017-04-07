@@ -1,4 +1,27 @@
 # QtCode
-Qt code here.
-<br>Add 1st change.
-<br>Add the window title.
+[![Qt](https://cldup.com/2HKynxwKwd-3000x3000.png)](https://www.qt.io/)
+> This is the code for test git usage.
+
+### Git Log
+  - Add the window title
+  - Include QDebug
+  - Merge conflict
+  
+### About
+  - Contact me : [Edwin]
+  - For Clone :
+  ```sh
+    $ git clone https://github.com/edwin89140/QtCode
+  ```
+
+  
+### Test Form
+
+| Branch | Description |
+| ------ | ------ |
+| master | the main branch |
+
+
+
+  
+[Edwin]: <edwin_lai@kingston.com.tw>
