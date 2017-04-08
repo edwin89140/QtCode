@@ -4,10 +4,12 @@
 #
 #-------------------------------------------------
 
-QT       += core gui
+QT       += core gui concurrent
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
+target.path = $$[QT_INSTALL_EXAMPLES]/qtconcurrent/progressdialog
+INSTALLS += target
 TARGET = MyFirstQtProject
 TEMPLATE = app
 
