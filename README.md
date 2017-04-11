@@ -6,6 +6,7 @@
   - Add the window title
   - Include QDebug
   - Merge conflict
+  - Add new user edwinlai
   
 ### About
   - Author : Edwin Lai
