@@ -7,6 +7,7 @@
   - Include QDebug
   - Merge conflict
   - Add new user edwinlai
+  - Use it at home testing
   
 ### About
   - Author : Edwin Lai
